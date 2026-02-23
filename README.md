@@ -1,3 +1,7 @@
+link for the circuit diagram:
+https://app.cirkitdesigner.com/project/2cece267-7223-4cc6-a3db-929d738ab0ef
+
+
 code:
    // Pin Definitions
 int redPins[] = {2, 5, 8, 11};
